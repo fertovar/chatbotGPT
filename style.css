@@ -1,0 +1,26 @@
+#chat-icon {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    cursor: pointer;
+    /* Aquí puedes agregar estilos adicionales para tu botón */
+}
+
+#chat-container {
+    position: fixed;
+    bottom: 80px; /* Ajusta según el tamaño de tu icono */
+    right: 20px;
+    width: 300px; /* Ajusta según tus preferencias */
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: white;
+    /* Ocultamos el chat por defecto */
+    display: none;
+}
+
+.hidden {
+    display: none;
+}
+
+/* Aquí puedes agregar estilos adicionales para tu chat */
+
